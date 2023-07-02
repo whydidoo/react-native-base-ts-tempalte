@@ -1,0 +1,8 @@
+{
+  "name": "react-native-base-ts-tempalte",
+  "version": "0.0.1",
+  "description": "React Native Base TS Template",
+  "repository": "https://github.com/whydidoo/react-native-base-ts-tempalte.git",
+  "author": "Amir Saifutdinov <wuskas47@gmail.com>",
+  "license": "MIT"
+}
